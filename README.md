@@ -1,2 +1,2 @@
-# poop
+# plop
 package manager for pooplinux
